@@ -43,3 +43,5 @@ pid.log
 ### .DS_Store
 
 **/.DS_Store
+/.java-version
+/META-INF/MANIFEST.MF
